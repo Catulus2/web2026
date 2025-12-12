@@ -1,2 +1,4 @@
-# web2026
-web2026 (rien d'intéressant)
+# Web2026
+Rien d'intéressant, juste quelque pages web
+----------
+On va decouvrir `html`  et `JS`
