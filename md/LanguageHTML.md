@@ -21,3 +21,11 @@ Référence: [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Referen
 
 Une balise ouvrante peut contenir attribut notamment `class=""`
         `<h1 class="maClasse"></h1>`
+
+Quelques balises importantes :
+- <h1></h1>
+- <p></p>
+- <a href=""></a>
+- <ul></ul> : faire listes sans ordre
+- <ol></ol> : faire listes avec ordre
+- <li></li> : faire des items de listes
