@@ -18,3 +18,6 @@ Le texte s'écrit **entre les balises.**
 Il existe aussi des balises orphelines : `<!DOCTYPE html>, <br>, <img>, ...`
 
 Référence: [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements)
+
+Une balise ouvrante peut contenir attribut notamment `class=""`
+        `<h1 class="maClasse"></h1>`
